@@ -1,0 +1,7 @@
+venv/
+py10_venv/
+__pycache__/
+paths.py
+results/
+test.py
+face_detectors/
